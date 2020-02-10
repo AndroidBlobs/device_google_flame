@@ -17,7 +17,7 @@ PRODUCT_MODEL := mainline
 PRODUCT_GMS_CLIENTID_BASE := android-google
 TARGET_VENDOR := google
 TARGET_VENDOR_PRODUCT_NAME := flame
-PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="flame-user 10 QD1A.190821.014.C2 5925854 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="flame-user 10 QQ1C.200105.004 6031803 release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
-BUILD_FINGERPRINT := google/flame/flame:10/QD1A.190821.014.C2/5925854:user/release-keys
+BUILD_FINGERPRINT := google/flame/flame:10/QQ1C.200105.004/6031803:user/release-keys
